@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mati-net
+- 👀 I’m interested in Networking, Automation, Python, Cloud Computing and other IT stuff
+- 🌱 I’m currently learning Python/Automation and AWS.
+- 💞️ I’m looking to collaborate on Networking, Automation and Python projects.
